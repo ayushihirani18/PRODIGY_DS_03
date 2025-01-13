@@ -9,7 +9,7 @@ The dataset consists of 17 columns and 4521 rows, representing customer data, in
 - **Financial Information**: Balance, Loan Status, Housing Loan
 - **Contact Details**: Day, Month, Duration of the last contact
 - **Outcome**: Whether the customer subscribed to a term deposit
-
+- Dataset:https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 ## Key Steps
 
 ### 1. Data Preprocessing
